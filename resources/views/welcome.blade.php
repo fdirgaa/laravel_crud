@@ -54,6 +54,8 @@
         </tbody>
     </table>
 
+    {{ $students->links() }}
+
 
 
 </div>
